@@ -16,3 +16,4 @@ seguinde ordem:
 5. `estimated_moment.ipynb`
 6. `estimated_moment2.ipynb`
 7. `generic_eqlayer_mag.ipynb`
+8. `generic_eqlayer_grav.ipynb`
